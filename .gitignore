@@ -5,16 +5,9 @@
 *.class
 org.*
 *.war
-88888
-9
-0
-9
-test1
-test2
-1
-2
-1
-2
-3
-4
-5
+function a() {
+
+}
+function b() {
+
+}
