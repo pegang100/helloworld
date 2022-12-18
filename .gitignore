@@ -5,3 +5,4 @@
 *.class
 org.*
 *.war
+test
