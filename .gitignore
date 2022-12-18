@@ -1,0 +1,7 @@
+*.jar
+.jsdtscope
+*.lst
+.idea
+*.class
+org.*
+*.war
